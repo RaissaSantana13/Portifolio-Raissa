@@ -84,6 +84,19 @@ const listaProjetos = [
                  "• Performance em Listagens: Uso otimizado de componentes nativos como FlatLists para renderização de conteúdos horizontais e em grelha, garantindo fluidez visual mesmo com grandes volumes de dados.",
         videoUrl: "https://player.cloudinary.com/embed/?cloud_name=dzkjdll3l&public_id=Cinephile", 
         repoUrl: "https://github.com/RaissaSantana13/cinephile_mobile_app"
+    },
+    {
+        title: "Quiz App",
+        description: "O Quiz App é uma aplicação educacional moderna desenvolvida com Flutter para auxiliar no aprendizado do framework e da linguagem Dart. O sistema foca em proporcionar um desafio equilibrado e dinâmico, utilizando algoritmos personalizados para a seleção de conteúdos e uma interface visualmente rica. \n\n" +
+                     "Destaques Técnicos: \n" +
+                     "• Sistema de Dificuldade Inteligente: Implementação de lógica para sorteio balanceado de questões por partida (5 fáceis, 3 médias e 2 difíceis).\n" +
+                     "• Lógica de Embaralhamento: Algoritmo para randomização de alternativas, garantindo que a posição das respostas mude a cada tentativa para evitar memorização.\n" +
+                     "• Gestão de Estado Nativa: Uso de StatefulWidgets para gerir o progresso do quiz, troca de telas e armazenamento das respostas em tempo real.\n" +
+                     "• UI/UX Imersiva: Design com gradientes multi-cores, transições suaves e integração com a biblioteca Google Fonts para tipografia refinada.\n" +
+                     "• Feedback de Performance: Módulo de análise final que compara as escolhas do utilizador com os dados corretos, oferecendo um resumo detalhado da partida.\n" +
+                     "• Arquitetura Modular: Organização clara entre modelos de dados (QuizQuestion), lógica de filtro e widgets de interface.",
+        videoUrl: "https://player.cloudinary.com/embed/?cloud_name=dzkjdll3l&public_id=quiz_app", 
+        repoUrl: "https://github.com/raissasantana13/quiz_app"
     }
 ];
 
