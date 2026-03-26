@@ -8,7 +8,11 @@
 Este é o meu portfólio pessoal, desenvolvido para centralizar a minha jornada como estudante de Engenharia de Computação e expor os meus principais projetos de desenvolvimento de software e web.
 
 ---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6c04b8e6-14bf-4d83-9ae3-efec4247556f" alt="Quiz App Interface" width="80%">
+</div>
 
+---
 ## Funcionalidades e Secções
 
 O portfólio foi desenhado com foco em usabilidade e estética moderna, apresentando:
@@ -17,6 +21,7 @@ O portfólio foi desenhado com foco em usabilidade e estética moderna, apresent
 * **Showcase de Projetos:** Galeria interativa com cartões detalhados para os principais projetos:
     * **Termo MVP:** Jogo de palavras em C#.
     * **Bookly:** Gestão de leituras e base de dados.
+    * **Quiz App:** App educacional em Flutter com sistema de sorteio por dificuldade (5 fáceis, 3 médias e 2 difíceis) e embaralhamento de respostas para evitar a memorização.
     * **BiblioXchange:** Plataforma de troca de livros.
     * **Alter Ego:** Experiência interativa baseada na artista Lisa.
 * **Habilidades Técnicas:** Listagem visual das linguagens e ferramentas que domino, como C#, SQL, HTML, CSS e JavaScript.
