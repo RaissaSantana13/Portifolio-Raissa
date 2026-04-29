@@ -143,6 +143,8 @@ cards.forEach((card) => {
     const index = card.getAttribute("data-index");
     const projeto = listaProjetos[index];
 
+    console.log(index, projeto);
+
     document.getElementById("modal-title").innerText = projeto.title;
     document.getElementById("modal-description").innerText =
       projeto.description;
